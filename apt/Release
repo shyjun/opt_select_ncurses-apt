@@ -5,7 +5,3 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: APT repository for opt-select-ncurses
-Date: Thu, 20 Feb 2025 18:00:00 UTC
-MD5Sum:
- 01977e8207020bf84f9155819f045b6d  Packages
- 1f8924fb90fd6600425e19ff65f31177  Packages.gz
